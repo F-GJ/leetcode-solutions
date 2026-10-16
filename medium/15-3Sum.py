@@ -200,3 +200,6 @@ class Solution:
         # STEP 12: Display the final results
         print("\n========== FINAL RESULTS ==========")
         print(f"triplets = {triplets}")
+
+        # STEP 13: Return the final result
+        return triplets
